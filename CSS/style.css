@@ -1,0 +1,49 @@
+h2 {
+    color:black;
+    text-align: center;
+    background-color:deepskyblue;
+    border:solid rgb(235, 131, 12);
+}
+#g1{
+    border: solid black;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#image{
+    text-align:left;
+}
+img{
+    border:solid purple;
+    
+}
+
+body{
+    background-color:yellow;
+}
+
+/*Seletor por tipo*/
+
+/*Seletor de ID*/
+#text1{
+    
+    background-color:deepskyblue;
+    color:black;
+    font-size: xx-large;
+    text-align: justify;
+    border: solid black;
+    font-family:Arial, Helvetica, sans-serif;
+}
+/*Seletor por classe*/
+.c2 {background-color: yellowgreen;
+    color:black;
+    font-size: larger;
+}
+#p4{
+    
+    background-color:greenyellow;
+    color:black;
+    font-size: larger;
+    text-align: left;
+    border: solid black;
+    font-family:Arial, Helvetica, sans-serif;
+}
